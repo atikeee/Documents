@@ -1,7 +1,7 @@
 # Getting Started with VBA Macro
 
 * right click ribbon
-   ![ribbon click](/Images/GettingStarted/ribbon_rightclick.jpg)
+   ![ribbon click](Images/GettingStarted/ribbon_rightclick.jpg)
 * customize the ribbon
 * check developer checkbox in main 
 * go to developer and click  “view code” to see/write codes
