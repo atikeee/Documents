@@ -1,6 +1,6 @@
 # Getting Started with VBA Macro
 
-* right click ribbon
+* *Right click ribbon*  
    ![ribbon click](Images/GettingStarted/ribbon_rightclick.JPG)
 * customize the ribbon
 * check developer checkbox in main 
