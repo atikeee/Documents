@@ -8,7 +8,7 @@
 * go to developer menu and click  “view code” to see/write codes
     * link to learn more: [macro for beginners](https://powerspreadsheets.com/excel-macro-tutorial-for-beginners/)
 * The window components need to know about  
-    ![components](Images/GettingStarted/components.JPG)
+    ![components](Images/GettingStarted/components.JPG)  
     1 The Menu Bar  
     2 The toolbar  
     3 Project window (ctrl + R to show)  
