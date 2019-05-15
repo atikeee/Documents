@@ -1,2 +1,3 @@
 # Documents
-Contains Documents only. 
+This is collections of documents for learning and project too. 
+
