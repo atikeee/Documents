@@ -1,3 +1,4 @@
+[index](Index.md)
 # All basic Syntax
 
 ## variable declaration
@@ -6,7 +7,7 @@ use dim for declaring simple variable.
 Dim x As Integer
 Dim y as String
 ```
-Array Declaration. 
+**Array** Declaration. 
 These are example of integer and string array. 
 ```vba
 Dim x() As Integer
@@ -24,7 +25,7 @@ End If
 
 ```
 ## String manipulation  
-There are lot of ways to manipulate string here are some example commonly used. 
+There are lot of ways to manipulate string here are some example commonly used functions. 
 ```vba
 Left(“Hello”,2)  'He
 Right(“hello”,2) ' lo
@@ -54,7 +55,7 @@ End If
 
 
 
-## for Loop  
+## for Loop variations 
 There is a loop counter  
 Few example shown here.   
 1) This is for 1 increment. 
@@ -96,3 +97,4 @@ FileNumber = FreeFile
     Close #FileNumber    
 Next MyIndex
 ```
+[index](Index.md)
