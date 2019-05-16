@@ -97,4 +97,33 @@ FileNumber = FreeFile
     Close #FileNumber    
 Next MyIndex
 ```
+
+## Function / Sub
+1) functions in vba is defined as below. the return value is assigned with same as function name. and type is defined after parenthesis. 
+```vba
+Function Area(x As Double, y As Double) As Double
+  Area = x * y
+End Function
+```
+2) sub in vba. it can not return any value. 
+```vba
+Sub Area(x As Double, y As Double)
+  MsgBox x * y
+End Sub
+```
+
+## Input Box
+Input box can be used to get the user input. 
+```vba
+Dim Message, Title, Default, MyValue
+Message = "Enter a value between 1 and 3"    ' Set prompt.
+Title = "InputBox Demo"    ' Set title.
+Default = "1"    ' Set default.
+' Display message, title, and default value.
+MyValue = InputBox(Message, Title, Default)
+' Use Helpfile and context. The Help button is added automatically.
+MyValue = InputBox(Message, Title, , , , "DEMO.HLP", 10)
+' Display dialog box at position 100, 100.
+MyValue = InputBox(Message, Title, Default, 100, 100)
+```
 [index](Index.md)
